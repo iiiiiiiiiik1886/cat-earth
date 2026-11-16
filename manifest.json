@@ -1,0 +1,13 @@
+{
+  "name": "CAT EARTH — Cat Memory Globe",
+  "short_name": "CAT EARTH",
+  "description": "Every cat has a place in your world.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070b19",
+  "theme_color": "#070b19",
+  "orientation": "portrait",
+  "icons": [
+    {"src":"assets/cat-earth-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
